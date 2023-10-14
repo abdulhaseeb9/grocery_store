@@ -1,4 +1,7 @@
 # grocery_store
+![Screenshot_20231014-111456](https://github.com/abdulhaseeb9/grocery_store/assets/144532395/dad9befb-3aa2-45f6-bb06-ca14ff2b961b)
+![Screenshot_20231014-111446](https://github.com/abdulhaseeb9/grocery_store/assets/144532395/a00c8134-5d49-46db-b256-2492eb82c047)
+![Screenshot_20231014-111439](https://github.com/abdulhaseeb9/grocery_store/assets/144532395/fcfb261e-6bfa-46f3-aab9-a97e53b746f6)
 
 A new Flutter project.
 
